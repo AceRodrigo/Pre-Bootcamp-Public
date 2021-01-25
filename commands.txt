@@ -1,0 +1,19 @@
+mkdir - make directory
+cd - change directory
+ls - list all files in that directory
+touch - create a new file
+pwd - present working directory
+cd .. - go back one level of directories
+clear - clears all things that are in the terminal
+mv - move files
+ls -l long terms of the file
+ls -a all files
+cd / - change to teh root directory of your computer from this folder, you can access your applications folders
+cd folder_name - moves into said folder
+rm directory_name - delete an empty directory(folder)
+rm -rf directory_name- delete non empty directory(folder)
+rm index.html - removing a file
+cp index.html copy.html - copying a file
+cp -rf directory_name copy_directory_name - copying a directory
+open . - open current directory in your GUI
+sudo - super user do
